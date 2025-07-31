@@ -4,3 +4,5 @@ Week 2: Stack, heap, sets, unordered sets, maps, queue, pairs.
 Week 3: Intro to Graph Theory, Searching Algorithm: BFS and DFS
 Week 4: Revision
 Week 5: Spanning tree, shortest path, Algorithms: Dijsktra, Prim and Kruskal
+Week 6: Greedy Algorithms and its applications
+Week 7: Dynamic Programming, Knapsack and edit distance
